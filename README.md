@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehitale
 - 👀 I’m interested in programming in General.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Rust!
 - 💞️ I’m looking to collaborate on nothing yet! I'm still learning!
 - 📫 How to reach me elatihe@gmail.com
 I check that address pretty frequently.
